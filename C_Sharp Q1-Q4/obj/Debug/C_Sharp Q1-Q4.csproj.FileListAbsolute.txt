@@ -1,0 +1,7 @@
+C:\Users\olaku\source\repos\C_Sharp Q1-Q4\bin\Debug\C_Sharp Q1-Q4.exe.config
+C:\Users\olaku\source\repos\C_Sharp Q1-Q4\bin\Debug\C_Sharp Q1-Q4.exe
+C:\Users\olaku\source\repos\C_Sharp Q1-Q4\bin\Debug\C_Sharp Q1-Q4.pdb
+C:\Users\olaku\source\repos\C_Sharp Q1-Q4\obj\Debug\C_Sharp Q1-Q4.csprojAssemblyReference.cache
+C:\Users\olaku\source\repos\C_Sharp Q1-Q4\obj\Debug\C_Sharp Q1-Q4.csproj.CoreCompileInputs.cache
+C:\Users\olaku\source\repos\C_Sharp Q1-Q4\obj\Debug\C_Sharp Q1-Q4.exe
+C:\Users\olaku\source\repos\C_Sharp Q1-Q4\obj\Debug\C_Sharp Q1-Q4.pdb
